@@ -1,14 +1,15 @@
 [
-  {
-    "subject": "اقتصاد جزئي",
-    "link": "https://www.youtube.com/embed/videoseries?list=PLZNgmAibHc87UCn2Xvr0Kg-TKL8oiEkM6"
-  },
-  {
-    "subject": "الفيزياء",
-    "link": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/watch?v=123456789"
-  },
-  {
-    "subject": "الكيمياء",
-    "link": "https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9/preview"
-  }
-]
+    {
+      "subject": "اقتصاد جزئي",
+      "link": "https://www.youtube.com/playlist?list=PLnKq9ZBuX35iWF4ifk8Kk-SvXWRZsJZjW"
+    },
+    {
+      "subject": "محاسبه ماليه",
+      "link": "https://www.youtube.com/playlist?list=PLlVh8HyJdQoW_ZAVlvFavIRWr8LbKDJrZ"
+    },
+    {
+      "subject": "محاسبه (المخزون)",
+      "link": "https://drive.google.com/file/d/1BCGr4rrUXA9BKpwYGh-XwTIhGu2bUg89/view?usp=drive_link"
+    }
+  ]
+  
