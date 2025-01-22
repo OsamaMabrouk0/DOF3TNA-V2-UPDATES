@@ -1,15 +1,14 @@
 [
-    {
-      "subject": "الرياضيات",
-      "playlistId": "PLZNgmAibHc87UCn2Xvr0Kg-TKL8oiEkM6"
-    },
-    {
-      "subject": "الفيزياء",
-      "playlistId": "PLZNgmAibHc87ABC123DEF456GHI789JKL"
-    },
-    {
-      "subject": "الكيمياء",
-      "playlistId": "PLZNgmAibHc87MNO456PQR789STU123VW"
-    }
-  ]
-  
+  {
+    "subject": "الرياضيات",
+    "link": "https://www.youtube.com/embed/videoseries?list=PLZNgmAibHc87UCn2Xvr0Kg-TKL8oiEkM6"
+  },
+  {
+    "subject": "الفيزياء",
+    "link": "https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/watch?v=123456789"
+  },
+  {
+    "subject": "الكيمياء",
+    "link": "https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9/preview"
+  }
+]
