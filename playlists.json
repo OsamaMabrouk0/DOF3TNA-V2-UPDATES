@@ -1,14 +1,32 @@
 [
     {
         "subject": "مادة الاقتصاد الجزئي",
-        "videoId": "PLnKq9ZBuX35iWF4ifk8Kk-SvXWRZsJZjW"
+        "videoId": "PLnKq9ZBuX35iWF4ifk8Kk-SvXWRZsJZjW",
+        "isPlaylist": true
     },
     {
-        "subject": "مادة الرياضيات",
-        "videoId": "PL_i4oGzXQNJqiHPRV7gAiIX2SbLVbxo9a"
+        "subject": "مادة الرياضيات البحتة",
+        "videoId": "PL_i4oGzXQNJqiHPRV7gAiIX2SbLVbxo9a",
+        "isPlaylist": true
     },
     {
-        "subject": "مادة الكيمياء",
-        "videoId": "xJXwrWEQhfw"
+        "subject": "فيديو واحد",
+        "videoId": "xJXwrWEQhfw",
+        "isPlaylist": false
+    },
+    {
+        "subject": "مادة المحاسبة المالية",
+        "videoId": "PLlVh8HyJdQoW_ZAVlvFavIRWr8LbKDJrZ",
+        "isPlaylist": true
+    },
+    {
+        "subject": "مادة مبادئ المحاسبة",
+        "videoId": "PLDYfSqIW22dEmTXZpMwWgcU0CHgpQRyzF",
+        "isPlaylist": true
+    },
+    {
+        "subject": "مادة الاقتصاد الجزئي (قائمة إضافية)",
+        "videoId": "PLZNgmAibHc87UCn2Xvr0Kg-TKL8oiEkM6",
+        "isPlaylist": true
     }
 ]
