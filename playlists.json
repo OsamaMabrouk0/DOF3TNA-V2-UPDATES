@@ -1,32 +1,35 @@
 [
     {
-        "subject": "مادة الاقتصاد الجزئي",
+        "_comment": " 'Video= false'  'PlayList= true' "
+    },
+    {
+        "subject": "احصاء وصفي",
         "videoId": "",
         "isPlaylist": true
     },
     {
-        "subject": "مادة الرياضيات البحتة",
+        "subject": "اقتصاد كلي",
         "videoId": "",
         "isPlaylist": true
     },
     {
-        "subject": "فيديو واحد",
-        "videoId": "xJXwrWEQhfw",
-        "isPlaylist": false
-    },
-    {
-        "subject": "مادة المحاسبة المالية",
-        "videoId": "PLlVh8HyJdQoW_ZAVlvFavIRWr8LbKDJrZ",
+        "subject": "سلوك تنظيمي",
+        "videoId": "",
         "isPlaylist": true
     },
     {
-        "subject": "مادة مبادئ المحاسبة",
-        "videoId": "PLDYfSqIW22dEmTXZpMwWgcU0CHgpQRyzF",
+        "subject": "قانون الاعمال",
+        "videoId": "",
         "isPlaylist": true
     },
     {
-        "subject": "مادة الاقتصاد الجزئي (قائمة إضافية)",
-        "videoId": "PLZNgmAibHc87UCn2Xvr0Kg-TKL8oiEkM6",
+        "subject": "مبادئ المحاسبة الادارية",
+        "videoId": "",
+        "isPlaylist": true
+    },
+    {
+        "subject": "مهارات اللغة و الاتصال",
+        "videoId": "",
         "isPlaylist": true
     }
 ]
