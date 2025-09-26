@@ -1,32 +1,38 @@
 [
     {
-        "subject": "احصاء وصفي",
+        "subject": "استدلال احصائي",
         "videoId": "",
         "isPlaylist": true
     },
     {
-        "subject": "اقتصاد كلي",
-        "videoId": "PLnKq9ZBuX35g7CukT8lSav4PPr25u5THd&si=_7ZAzyLa3SHDg7G9",
+        "subject": "نقود وبنوك",
+        "videoId": "",
         "isPlaylist": true
     },
     {
-        "subject": "ملخص سلوك تنظيمي",
+        "subject": "نظام و معلومات",
         "videoId": "",
         "isPlaylist": false
     },
     {
-        "subject": "قانون الاعمال",
+        "subject": "تسويق",
         "videoId": "",
         "isPlaylist": true
     },
     {
-        "subject": "مبادئ المحاسبة الادارية",
+        "subject": "محاسبة متوسطة 1",
         "videoId": "",
         "isPlaylist": false
     },
     {
-        "subject": "مهارات اللغة و الاتصال",
+        "subject": "مالية عامة انتظام",
+        "videoId": "",
+        "isPlaylist": true
+    },
+    {
+        "subject": "مالية عامة انتساب",
         "videoId": "",
         "isPlaylist": true
     }
 ]
+
